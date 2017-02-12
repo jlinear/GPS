@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_121bc1f265de4615067931cc6576024efb6a6596/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-6.5.87_229baf829bee9d2ee57be2eb68256bb2814fddd1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_bd79b633faaa1f9b86a0d29fc92e9e76fb8b68ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="853c3ab4fb6568a8960fbff1ccfb5ae48aa4d9a1">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4db838294c919f02df9cd7daed34416a90794be8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_744ed01fb120d093873853ca110c2b9a9abfbbfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_bd79b633faaa1f9b86a0d29fc92e9e76fb8b68ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b436e4657ddde98426f829848eca3f5234230f5f">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1f9a03f8da13e26fad05a16000fb75e1829e2e03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.1/ef266d93357210b530c5b400e3d40de64fd86a0d/parse-android-1.13.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ef266d93357210b530c5b400e3d40de64fd86a0d">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.1_1614d1b31dcdbded11a7ac3bc227db2a7f340bc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_121bc1f265de4615067931cc6576024efb6a6596/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_ef1cc10a7a385c354a7d8486863d95925275664d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_4af28a189ac7a5ca1f46f2a39e9a170fd46438e8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_4af28a189ac7a5ca1f46f2a39e9a170fd46438e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_6e9cce4a20d7c39e622cc8940c4a1f002854478d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_112b382f669e97fea4de82bbab74df13008bedb9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_916b12b4f276e9b71d53ed18e3ba7a123d92bb4e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_79f37d4076ca37c346dbf80b4a8e147794e67558/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_ef1cc10a7a385c354a7d8486863d95925275664d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-6.5.87_229baf829bee9d2ee57be2eb68256bb2814fddd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_cfa11004514f8b8568a1722bbf48586dece9d163/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7d59c512a126cd16f81721612094367037cee6e4">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4db838294c919f02df9cd7daed34416a90794be8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_112b382f669e97fea4de82bbab74df13008bedb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_916b12b4f276e9b71d53ed18e3ba7a123d92bb4e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_6e9cce4a20d7c39e622cc8940c4a1f002854478d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="969e377c49170c87fa7034ccfc01558a6dc2c008">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1f9a03f8da13e26fad05a16000fb75e1829e2e03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_744ed01fb120d093873853ca110c2b9a9abfbbfe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.1/ef266d93357210b530c5b400e3d40de64fd86a0d/parse-android-1.13.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ef266d93357210b530c5b400e3d40de64fd86a0d">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.1_1614d1b31dcdbded11a7ac3bc227db2a7f340bc5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jerry/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_cfa11004514f8b8568a1722bbf48586dece9d163/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/jerry/Documents/Research/ND-Ford/Projects/GPS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_79f37d4076ca37c346dbf80b4a8e147794e67558/classes.dex" />
+    </item>
+
+</items>
